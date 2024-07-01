@@ -1,40 +1,40 @@
 [
 	{
 		"id": "001",
-		"cover": "./src/assets/images/1.jpg",
+		"cover": "../../../images/1.jpg",
 		"title": "mysteries of the ancient world",
 		"author": "alex johnson",
-		"author_img": "./src/assets/images/boy1.png",
+		"author_img": "../../../images/boy1.png",
 		"posted_date": "2024-06-15",
 		"reading_time": 8,
 		"hashtags": ["#history", "#mystery", "#ancient"]
 	},
 	{
 		"id": "002",
-		"cover": "./src/assets/images/2.png",
+		"cover": "../../../images/2.png",
 		"title": "the future of ai technology",
 		"author": "jamie lee",
-		"author_img": "./src/assets/images/boy2.png",
+		"author_img": "../../../images/boy2.png",
 		"posted_date": "2024-06-18",
 		"reading_time": 10,
 		"hashtags": ["#ai", "#technology", "#future"]
 	},
 	{
 		"id": "003",
-		"cover": "./src/assets/images/3.png",
+		"cover": "../../../images/3.png",
 		"title": "exploring the depths of the ocean",
 		"author": "morgan smith",
-		"author_img": "./src/assets/images/girl1.jpg",
+		"author_img": "../../../images/girl1.jpg",
 		"posted_date": "2024-06-20",
 		"reading_time": 12,
 		"hashtags": ["#ocean", "#exploration", "#science"]
 	},
 	{
 		"id": "004",
-		"cover": "./src/assets/images/4.jpg",
+		"cover": "../../../images/4.jpg",
 		"title": "the art of mindfulness",
 		"author": "casey taylor",
-		"author_img": "./src/assets/images/girl2.jpg",
+		"author_img": "../../../images/girl2.jpg",
 		"posted_date": "2024-06-25",
 		"reading_time": 7,
 		"hashtags": ["#mindfulness", "#meditation", "#wellbeing"]
